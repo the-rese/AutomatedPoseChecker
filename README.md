@@ -1,2 +1,2 @@
 # AutomatedPoseChecker
- An implementation on an automated pose detection using mediapipe
+ An implementation of an automated pose detection using mediapipe
